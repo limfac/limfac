@@ -1,5 +1,5 @@
 # 绝区零工具箱
-[绝区零工具箱]("https://limfac.github.io/limfac/")  
+[绝区零工具箱](https://limfac.github.io/limfac/)  
 >伤害公式计算器
 * 填入公式中的数值得到伤害
 * 支持选择怪物和等级自动计算防御力
